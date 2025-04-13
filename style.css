@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+}
+
+#two:hover{
+    color: blue;
+    background-color: chocolate;
+}
+
+#two:active{
+    color: white;
+    background-color: black;
+}
